@@ -28,3 +28,5 @@ SSL证书申请完成
 2.安装X-UI面板
 
 bash <(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)
+安装X-UI面板
+https://raw.githubusercontent.com/vavacc/SOLO-X-UI/main/install.sh
