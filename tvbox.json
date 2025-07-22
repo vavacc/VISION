@@ -10,24 +10,6 @@
       "filterable": 1
     },
     {
-      "key": "modu",
-      "name": "魔都-紫夜",
-      "type": 1,
-      "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "baofeng",
-      "name": "暴风-紫夜",
-      "type": 0,
-      "api": "https://bfzyapi.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "maotai",
       "name": "茅台-紫夜",
       "type": 1,
@@ -37,10 +19,136 @@
       "filterable": 1
     },
     {
-      "key": "liangzi",
-      "name": "量子-紫夜",
+      "key": "ruyi",
+      "name": "如意-紫夜",
+      "type": 1,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "iKun",
+      "name": "iKun-紫夜",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "mozhua",
+      "name": "魔爪-紫夜",
+      "type": 1,
+      "api": "https://mozhuazy.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "modu",
+      "name": "魔都-紫夜",
+      "type": 1,
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "suoni",
+      "name": "索尼-紫夜",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "UKU",
+      "name": "尤库-紫夜",
+      "type": 1,
+      "api": "https://api.ukuapi88.com/api.php/provide/art/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "kuaiche",
+      "name": "快车-紫夜",
+      "type": 1,
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jinying",
+      "name": "金鹰-紫夜",
+      "type": 1,
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "taopian",
+      "name": "淘片-紫夜",
+      "type": 1,
+      "api": "https://taopianapi.com/cjapi/sda/vod/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "wolong",
+      "name": "卧龙-紫夜",
+      "type": 1,
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "qilin",
+      "name": "麒麟-紫夜",
+      "type": 1,
+      "api": "https://www.qilinzyz.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "fengchao",
+      "name": "蜂巢-紫夜",
+      "type": 1,
+      "api": "https://api.fczy888.me/api.php/provide/vod/at/json  ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "haohua",
+      "name": "豪华-紫夜",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "subo",
+      "name": "速播-紫夜",
+      "type": 1,
+      "api": "https://subocj.com/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "guangsu",
+      "name": "光速-紫夜",
       "type": 0,
-      "api": "https://cj.lzcaiji.com/api.php/provide/vod/at/xml/",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
