@@ -28,15 +28,6 @@
       "filterable": 1
     },
     {
-      "key": "iKun",
-      "name": "iKun-紫夜",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "mozhua",
       "name": "魔爪-紫夜",
       "type": 1,
@@ -131,6 +122,15 @@
       "name": "光速-紫夜",
       "type": 0,
       "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "iKun",
+      "name": "iKun-紫夜",
+      "type": 1,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
