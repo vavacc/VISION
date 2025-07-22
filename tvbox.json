@@ -125,15 +125,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "iKun",
-      "name": "iKun-紫夜",
-      "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     }
   ],
   "lives": [
