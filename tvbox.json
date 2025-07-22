@@ -94,7 +94,7 @@
       "key": "taopian",
       "name": "淘片-紫夜",
       "type": 1,
-      "api": "https://taopianapi.com/cjapi/sda/vod/json",
+      "api": "https://taopianapi.com/cjapi/sda/vod/json.html",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
