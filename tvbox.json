@@ -73,15 +73,6 @@
       "filterable": 1
     },
     {
-      "key": "jinying",
-      "name": "金鹰-紫夜",
-      "type": 1,
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "wolong",
       "name": "卧龙-紫夜",
       "type": 1,
@@ -100,19 +91,28 @@
       "filterable": 1
     },
     {
-      "key": "haohua",
-      "name": "豪华-紫夜",
+      "key": "subo",
+      "name": "速播-紫夜",
       "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/at/json",
+      "api": "https://subocj.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "subo",
-      "name": "速播-紫夜",
+      "key": "jinying",
+      "name": "金鹰-紫夜",
       "type": 1,
-      "api": "https://subocj.com/api.php/provide/vod/at/json",
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "haohua",
+      "name": "豪华-紫夜",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
