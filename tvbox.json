@@ -112,7 +112,7 @@
       "key": "qilin",
       "name": "麒麟-紫夜",
       "type": 1,
-      "api": "https://www.qilinzyz.com/api.php/provide/vod/?ac=list",
+      "api": "http://www.qilinzyz.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
