@@ -100,28 +100,28 @@
       "filterable": 1
     },
     {
-      "key": "jinying",
-      "name": "金鹰-紫夜",
+      "key": "huya",
+      "name": "虎牙-紫夜",
       "type": 1,
-      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "haohua",
-      "name": "豪华-紫夜",
+      "key": "jisu",
+      "name": "极速-紫夜",
       "type": 1,
-      "api": "https://hhzyapi.com/api.php/provide/vod/at/json",
+      "api": "https://jszyapi.com/api.php/provide/vod/at/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "guangsu",
-      "name": "光速-紫夜",
+      "key": "xinlang",
+      "name": "新浪-紫夜",
       "type": 0,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
