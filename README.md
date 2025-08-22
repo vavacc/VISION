@@ -41,3 +41,7 @@ https://raw.githubusercontent.com/vavacc/SOLO-X-UI/main/install.sh
 
 电视TVBOX的接口地址
 https://git.vsva911.cf/https://raw.githubusercontent.com/vavacc/VISION/refs/heads/master/tvbox.json
+
+
+虚拟世界
+![sub](./00792-3318989382.jpg)
